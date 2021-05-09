@@ -21,7 +21,6 @@ You need to open the code editor along with me and start coding through this cou
 
 I teach you
 - react basics like component, state and props, event handling and forms 
-- 
 - advanced react topics like hooks and react context, state management using Redux, testing components, type checking
 - create backend api and connect to it using axios
 - using payment gateways like paypal to make online payment
@@ -67,8 +66,7 @@ also you will build web applications like:
 - self order kiosk using react context and mui
 
 in this course you will use following services in your projects:
-- 
-
+  
 # Lessons
 1. Introduction
    1. what is this course about
@@ -83,6 +81,19 @@ in this course you will use following services in your projects:
    1. run npx create-react-app react-basic-app
    2. explain folder and file structure
 4. Into to JSX
-   1. d
+   1. what is JSX
+   2. create JSX variables
+   3. render JSX
 5. Rendering elements
-   1. dd
+   1. create div#root
+   2. ReactDOM.render method 
+6. Create components
+   1. functional components
+   2. props
+   3. class components
+   4. use react dev tools
+7. State and Lifecycle
+   1. create clock app
+   2. add state
+   3. add lifecycle method
+   4. test result
