@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import Welcome from './Welcome';
+import Message from './Message';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
