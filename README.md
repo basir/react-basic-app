@@ -97,3 +97,8 @@ in this course you will use following services in your projects:
    2. add state
    3. add lifecycle method
    4. test result
+8. Handling Events
+   1. handle events on DOM elements
+   2. create toggle button
+   3. create login button
+   4. passing arguments
