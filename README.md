@@ -102,3 +102,9 @@ in this course you will use following services in your projects:
    2. create toggle button
    3. create login button
    4. passing arguments
+9. Conditional Rendering
+   1.  Use if condition
+   2.  use element variables
+   3.  inline if with &&
+   4.  inline if else ?
+   5.  prevent rendering
