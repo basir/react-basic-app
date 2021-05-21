@@ -108,3 +108,10 @@ in this course you will use following services in your projects:
    3.  inline if with &&
    4.  inline if else ?
    5.  prevent rendering
+10. Render Lists
+    1.  create basic list element
+    2.  use map in JSX
+    3.  add keys
+    4.  check key usage
+    5.  key must be unique
+    
